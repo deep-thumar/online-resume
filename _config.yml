@@ -112,34 +112,35 @@ content:
         link: https://www.nuego.in/
         link_text: Nuego Bus
         quote: >
-          Short overview of the project (optional)
+          A comprehensive online platform for booking intercity bus tickets with real-time seat availability and secure payments.
         description: | 
-          Description about the work on/with the project
+          Developed and maintained core booking modules, user rights, reports, integrated payment gateways, and optimized APIs for faster search and booking experiences.
       - layout: left
         border: weak
         title: BT-SOFT
         link: https://academiaautozitania.pt/
         link_text: Autozitania Academy
         quote: >
-          Short overview of the project (optional)
+          An integrated learning management and administrative system for e-training academies.
         description: | 
-          Description about the work on/with the project
+          Designed backend services, implemented user and course management features, implemented trainee/trainer/coordinator, and contributed to the automation of enrollment and progress tracking.
       - layout: left
         border: weak
         title: Petrol Pump Management System
         quote: >
-          Short overview of the project (optional)
+          A digital solution to streamline operations, sales, and inventory management for petrol pumps.
         description: | 
-          Description about the work on/with the project
+          Built modules for daily sales tracking, inventory control, and financial reporting to improve operational efficiency.
       - layout: left
         border: weak
         title: PlayAmigos API
         link: https://play.google.com/store/apps/details?id=com.fedbidllc.playamigos&hl=en_IN&pli=1
         link_text: Play Amigos
         quote: >
-          Short overview of the project (optional)
+          A robust API backend powering a social gaming platform that connects players for real-time multiplayer experiences.
         description: | 
-          Description about the work on/with the project
+          - Developed and maintained RESTful APIs, ensured scalability for high user loads, and integrated secure authentication mechanisms.
+          - Convert the Express.js API to Nest.js as well.
 
   - title: Experience
     layout: list
@@ -152,7 +153,11 @@ content:
         quote: >
           Short description of the company (optional)
         description: | 
-          A Rajkot-based IT services and consulting firm with 300+ employees, delivering ERP/CRM, university campus management systems, cloud infrastructure, travel booking engines, web/mobile development, and IT consulting services for diverse industries worldwide.
+         - Led the design and development of scalable web applications using C# MVC and SQL Server.
+         - Optimized API performance and implemented token management for secure communication.
+         - Improved database queries for better performance and data integrity.
+         - Worked closely with product managers, designers, and other developers to deliver high-quality features on time.
+         - Played a key role in mentoring junior developers, guiding them through best practices and coding standards
       - layout: right
         title: Rebbitweb Technologies
         sub_title: Senior Software Developer
@@ -161,7 +166,10 @@ content:
         quote: >
           Short description of the company (optional)
         description: | 
-          A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands across various domains.
+          - Developed and maintained web applications using ASP.NET Zero, ASP.NET Core, MVC, and Web API
+          - Built dynamic front-end components using JavaScript, jQuery, AJAX, and JSON
+          - Collaborated with cross-functional teams to deliver features
+          - Actively contributed to technical discussions and product improvement initiatives
 
   - title: Education
     layout: list
@@ -172,22 +180,12 @@ content:
         caption: 05/2021 - 03/2023 
         quote: >
           Short institution or course description (optional)
-        description: | 
-          Description of qualification
-        children:
-          - layout: left
-            title: College Project Showcase
-            description: |
-              - **Smart Attendance System:** Developed a facial recognition-based attendance system using Python and OpenCV, streamlining attendance capture and enhancing accuracy.
-              - **Library Management Portal:** Built a full-stack web application for managing digital library resources, automating book inventory, user borrowing, and overdue tracking with ASP.NET MVC and SQL Server.
       - layout: top-right
-        title: Atmiya Institute Of Technology & Science
+        title: Atmiya Institute of Technology & Science
         sub_title: Bachelor of Science - BS, Information Technology
         caption: 05/2018 - 03/2021 
         quote: >
           Short institution or course description (optional)
-        description: | 
-          Description of qualification
 
   - title: Awards
     layout: list
@@ -208,34 +206,34 @@ content:
     content:
       - layout: left
         title: Power BI Workshop
-        caption: 2025
+        caption: United Latino Students Association
         description: |
-          United Latino Students Association
+          Hands-on training in business intelligence and data visualization using Power BI.
       - layout: left
         title: Back-End Web Development with .NET
         caption: 2025
         description: |
-          LinkedIn
+          Practical skills in building scalable server-side applications with .NET technologies.
       - layout: left
         title: Building a Website with Node.js and Express.js
         caption: 2025
         description: |
-          LinkedIn
+          Developed web applications using Node.js and Express.js frameworks.
       - layout: left
         title: Microsoft Azure - Identity and Access Management
         caption: 2025
         description: |
-          LinkedIn
+          Gained expertise in secure identity and access management solutions on Azure.
       - layout: left
         title: Hands-On Introduction - JavaScript
         caption: 2025
         description: |
-          LinkedIn
+          Built a strong foundation in modern JavaScript through practical, project-based learning.
       - layout: left
         title: SQL Practice - Intermediate Queries
         caption: 2025
         description: |
-          LinkedIn
+          Strengthened SQL query skills for database management and data analysis.
               
   - title: A Little More About Me
     layout: text
