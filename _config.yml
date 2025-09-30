@@ -163,8 +163,6 @@ content:
         sub_title: Senior Software Developer
         caption: 04/2025 - Present
         link: 
-        quote: >
-          Short description of the company (optional)
         description: | 
           - Developed and maintained web applications using ASP.NET Zero, ASP.NET Core, MVC, and Web API
           - Built dynamic front-end components using JavaScript, jQuery, AJAX, and JSON
@@ -178,8 +176,6 @@ content:
         title: Shree Matrumandir Group of Colleges
         sub_title: Master of Science - MS, Information Technology
         caption: 05/2021 - 03/2023 
-        quote: >
-          Short institution or course description (optional)
       - layout: top-right
         title: Atmiya Institute of Technology & Science
         sub_title: Bachelor of Science - BS, Information Technology
