@@ -1,26 +1,17 @@
 - layout: right
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
+  company:  Infinity Group of Companies
+  link: https://infinityinfoway.com/
+  job_title: Senior Software Developer
+  dates: 09/2021 - 02/2025
   quote: >
    Short description of the company (optional)
   description: >
     Description of role
 
 - layout: top
-  company: Company 2
-  job_title: Job title 1
-  dates: January 2014 - November 2016
+  company: RebbitWeb Technologies
+  job_title: Senior Software Developer
+  dates: 04/2025 - Present
   description: >
     Description of role
 
-- layout: top-right
-  company: Company 3
-  jobs:
-    - title: Job title 1
-      dates: February 2013 - December 2013
-    - title: Job title 2
-      dates: June 2012 - February 2013
-  description: >
-    Description of role
