@@ -201,7 +201,7 @@ content:
         description: |
           Awarded for delivering high-quality technical solutions and exceeding project expectations.
 
-   - title: Licenses & Certifications
+  - title: Licenses & Certifications
       layout: list
       content:
         - layout: left
