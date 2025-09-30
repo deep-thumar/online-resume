@@ -170,11 +170,11 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-center
         title: Shree Matrumandir Group of Colleges
         sub_title: Master of Science - MS, Information Technology
         caption: 05/2021 - 03/2023 
-      - layout: top-left
+      - layout: top-center
         title: Atmiya Institute of Technology & Science
         sub_title: Bachelor of Science - BS, Information Technology
         caption: 05/2018 - 03/2021 
