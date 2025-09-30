@@ -198,6 +198,7 @@ content:
     content:
       - layout: left
         title: Power BI Workshop
+        caption: United Latino Students Association
         description: |
           Hands-on training in business intelligence and data visualization using Power BI.
       - layout: left
