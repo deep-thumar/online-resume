@@ -12,32 +12,32 @@ email: deepthumar224@gmail.com
 # email_title: Email (Email title override)
 phone: +91 6355489829
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  deep-thumar
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: deepthummar.in
+linkedin_username: thumar-deep-818489341
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -55,12 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
   At Rebbitweb, our team led the development of scalable web applications, leveraging my expertise in C# MVC and SQL Server to enhance system performance and security. With a focus on optimizing API performance, we implemented robust token management, ensuring secure and efficient communication. Our collaborative efforts resulted in streamlined database operations and the on-time delivery of high-quality features.
   
   As a mentor, I supported junior developers in honing their skills in best practices and coding standards, reflecting my commitment to knowledge sharing and team growth. My educational journey culminated with a Master of Science degree in Information Technology, solidifying a foundation that integrates advanced technical skills with a strategic understanding of software development and data management.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -70,15 +69,50 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Bus Booking Engine
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://www.nuego.in/
+        link_text: Nuego Bus
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: BT-SOFT
+        link: https://academiaautozitania.pt/
+        link_text: Autozitania Academy
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Petrol Pump Management System
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: PlayAmigos API
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -95,6 +129,18 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
            A Rajkot-based IT services and consulting firm with 300+ employees, delivering ERP/CRM, university campus management systems, cloud infrastructure, travel booking engines, web/mobile development, payment gateway, and digital marketing solutions.
+  - title: Experience
+    layout: list
+    content:
+     - layout: right
+       title:  Rebbitweb Technologies
+       sub_title: Senior Software Developer
+       caption: 04/2025 - Present
+       link: 
+       quote: >
+        Short description of the company (optional)
+      description: | # this will include new lines to allow paragraphs
+         A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands across global markets.
   - title: Education
     layout: list
     content:
@@ -112,7 +158,24 @@ content:
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title:  Atmiya Institute Of Technology & Science
+        sub_title: Bachelor of Science - BS, Information Technology
+        caption: 05/2018 - 03/2021 
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
