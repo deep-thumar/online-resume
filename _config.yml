@@ -182,25 +182,54 @@ content:
         description: | 
           Description of qualification
 
-  - title: Awards & Certifications
+  - title: Awards
     layout: list
     content:
       - layout: left
-        title: Microsoft Certified Azure Developer Associate
-        caption: 2024
+        title: Shining Star
+        caption: Infinity Group of Companies
         description: |
-          Demonstrated expertise in developing solutions for Microsoft Azure, including compute, storage, security, and monitoring.
+          Recognized for outstanding contributions and performance.
       - layout: left
-        title: Winner - Intercollege Coding Competition
-        caption: 2022
+        title: Exceeding Expectations Tech
+        caption: Infinity Group of Companies
         description: |
-          Achieved first place in a multi-institutional programming challenge, solving advanced algorithmic problems under time constraints.
-      - layout: left
-        title: Udemy Certification Advanced C# Programming
-        caption: 2023
-        description: |
-          Completed an advanced online course covering in-depth concepts in C#, LINQ, and .NET best practices.
+          Awarded for delivering high-quality technical solutions and exceeding project expectations.
 
+   - title: Licenses & Certifications
+      layout: list
+      content:
+        - layout: left
+          title: Power BI Workshop
+          caption: United Latino Students Association
+          description: |
+            LinkedIn
+        - layout: left
+          title: Back-End Web Development with .NET
+          caption: 2025
+          description: |
+            LinkedIn
+        - layout: left
+          title: Building a Website with Node.js and Express.js
+          caption: 2025
+          description: |
+            LinkedIn
+        - layout: left
+          title: Microsoft Azure: Identity and Access Management
+          caption: 2025
+          description: |
+            LinkedIn
+        - layout: left
+          title: Hands-On Introduction: JavaScript
+          caption: 2025
+          description: |
+            LinkedIn
+        - layout: left
+          title: SQL Practice: Intermediate Queries
+          caption: 2025
+          description: |
+            LinkedIn
+              
   - title: A Little More About Me
     layout: text
     content: | 
