@@ -90,6 +90,8 @@ content:
       - layout: left
         border: weak
         title: PlayAmigos API
+        link: https://play.google.com/store/apps/details?id=com.fedbidllc.playamigos&hl=en_IN&pli=1
+        link_text: Play Amigos
         quote: >
           Short overview of the project (optional)
         description: | 
