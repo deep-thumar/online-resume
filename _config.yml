@@ -56,9 +56,46 @@ about_content: | # this will include new lines to allow paragraphs
   
   As a mentor, I supported junior developers in honing their skills in best practices and coding standards, reflecting my commitment to knowledge sharing and team growth. My educational journey culminated with a Master of Science degree in Information Technology, solidifying a foundation that integrates advanced technical skills with a strategic understanding of software development and data management.
 
-# (unchanged content above...)
-
 content:
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: Programming Languages
+        description: |
+          - C#
+          - JavaScript / TypeScript
+          - Python
+          - SQL
+          - HTML5, CSS3, SASS
+      - layout: left
+        title: Frameworks & Libraries
+        description: |
+          - ASP.NET MVC / Web API
+          - .NET Core
+          - Entity Framework
+          - React.js, Next.js
+          - jQuery
+      - layout: left
+        title: Tools & Platforms
+        description: |
+          - Git & GitHub
+          - Visual Studio, VS Code
+          - Azure DevOps
+          - Docker, Postman
+      - layout: left
+        title: Databases
+        description: |
+          - SQL Server
+          - MySQL
+      - layout: left
+        title: Other Skills
+        description: |
+          - REST API Design
+          - Agile & Scrum
+          - Team Leadership & Mentoring
+          - Code Review & Best Practices
+
   - title: Projects
     layout: list
     content:
@@ -108,7 +145,7 @@ content:
         quote: >
           Short description of the company (optional)
         description: | 
-          A Rajkot-based IT services and consulting firm with 300+ employees, delivering ERP/CRM, university campus management systems, cloud infrastructure, travel booking engines, web/mobile develo[...]
+          A Rajkot-based IT services and consulting firm with 300+ employees, delivering ERP/CRM, university campus management systems, cloud infrastructure, travel booking engines, web/mobile development, and IT consulting services for diverse industries worldwide.
       - layout: right
         title: Rebbitweb Technologies
         sub_title: Senior Software Developer
@@ -117,7 +154,7 @@ content:
         quote: >
           Short description of the company (optional)
         description: | 
-          A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands acros[...]
+          A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands across various domains.
 
   - title: Education
     layout: list
@@ -130,6 +167,12 @@ content:
           Short institution or course description (optional)
         description: | 
           Description of qualification
+        children:
+          - layout: left
+            title: College Project Showcase
+            description: |
+              - **Smart Attendance System:** Developed a facial recognition-based attendance system using Python and OpenCV, streamlining attendance capture and enhancing accuracy.
+              - **Library Management Portal:** Built a full-stack web application for managing digital library resources, automating book inventory, user borrowing, and overdue tracking with ASP.NET MVC and SQL Server.
       - layout: top-right
         title: Atmiya Institute Of Technology & Science
         sub_title: Bachelor of Science - BS, Information Technology
@@ -138,6 +181,25 @@ content:
           Short institution or course description (optional)
         description: | 
           Description of qualification
+
+  - title: Awards & Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Microsoft Certified: Azure Developer Associate
+        caption: 2024
+        description: |
+          Demonstrated expertise in developing solutions for Microsoft Azure, including compute, storage, security, and monitoring.
+      - layout: left
+        title: Winner - Intercollege Coding Competition
+        caption: 2022
+        description: |
+          Achieved first place in a multi-institutional programming challenge, solving advanced algorithmic problems under time constraints.
+      - layout: left
+        title: Udemy Certification: Advanced C# Programming
+        caption: 2023
+        description: |
+          Completed an advanced online course covering in-depth concepts in C#, LINQ, and .NET best practices.
 
   - title: A Little More About Me
     layout: text
