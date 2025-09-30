@@ -202,38 +202,38 @@ content:
           Awarded for delivering high-quality technical solutions and exceeding project expectations.
 
   - title: Licenses & Certifications
-      layout: list
-      content:
-        - layout: left
-          title: Power BI Workshop
-          caption: United Latino Students Association
-          description: |
-            LinkedIn
-        - layout: left
-          title: Back-End Web Development with .NET
-          caption: 2025
-          description: |
-            LinkedIn
-        - layout: left
-          title: Building a Website with Node.js and Express.js
-          caption: 2025
-          description: |
-            LinkedIn
-        - layout: left
-          title: Microsoft Azure: Identity and Access Management
-          caption: 2025
-          description: |
-            LinkedIn
-        - layout: left
-          title: Hands-On Introduction: JavaScript
-          caption: 2025
-          description: |
-            LinkedIn
-        - layout: left
-          title: SQL Practice: Intermediate Queries
-          caption: 2025
-          description: |
-            LinkedIn
+    layout: list
+    content:
+      - layout: left
+        title: Power BI Workshop
+        caption: United Latino Students Association
+        description: |
+          LinkedIn
+      - layout: left
+        title: Back-End Web Development with .NET
+        caption: 2025
+        description: |
+          LinkedIn
+      - layout: left
+        title: Building a Website with Node.js and Express.js
+        caption: 2025
+        description: |
+          LinkedIn
+      - layout: left
+        title: Microsoft Azure: Identity and Access Management
+        caption: 2025
+        description: |
+          LinkedIn
+      - layout: left
+        title: Hands-On Introduction: JavaScript
+        caption: 2025
+        description: |
+          LinkedIn
+      - layout: left
+        title: SQL Practice: Intermediate Queries
+        caption: 2025
+        description: |
+          LinkedIn
               
   - title: A Little More About Me
     layout: text
