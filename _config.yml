@@ -186,7 +186,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Microsoft Certified: Azure Developer Associate
+        title: Microsoft Certified Azure Developer Associate
         caption: 2024
         description: |
           Demonstrated expertise in developing solutions for Microsoft Azure, including compute, storage, security, and monitoring.
@@ -196,7 +196,7 @@ content:
         description: |
           Achieved first place in a multi-institutional programming challenge, solving advanced algorithmic problems under time constraints.
       - layout: left
-        title: Udemy Certification: Advanced C# Programming
+        title: Udemy Certification Advanced C# Programming
         caption: 2023
         description: |
           Completed an advanced online course covering in-depth concepts in C#, LINQ, and .NET best practices.
