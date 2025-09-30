@@ -56,8 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am recognized for my ability to lead teams, mentor junior developers, and collaborate across functions to deliver complex projects ahead of deadlines. My technical prowess is complemented by a passion for clean code, best practices, and continuous learning. Key accomplishments include:
 
-    • Leading a team of 5 developers to deliver a major project two weeks ahead of schedule,
-    • Optimizing APIs to reduce response times by 25%,
+    • Leading a team of 5 developers to deliver a major project two weeks ahead of schedule
+    
+    • Optimizing APIs to reduce response times by 25%
+    
     • And earning multiple “Shining Star” and “Exceeding Expectations” awards for technical and team contributions. I believe in building not just software, but also a culture of excellence and innovation. Whether designing a user-centric front end or engineering high-performance backends, I bring a strategic, detail-oriented, and growth-focused mindset to every challenge.
 
   Let’s connect if you’re looking for someone who combines deep technical skills with leadership, innovation, and a relentless drive for results
@@ -69,18 +71,22 @@ content:
       - layout: left
         title: Programming Languages
         description: |
-          • C#
-          • JavaScript / TypeScript
-          • Python
-          • SQL
-          • HTML5, CSS3
+          - C#
+          - JavaScript / TypeScript
+          - Python
+          - SQL
+          - HTML5, CSS3
       - layout: left
         title: Frameworks & Libraries
         description: |
           • ASP.NET MVC / Web API
+          
           • .NET Core
+          
           • Entity Framework
+          
           • React.js, Next.js
+          
           • jQuery
       - layout: left
         title: Tools & Platforms
@@ -206,9 +212,9 @@ content:
     content:
       - layout: left
         title: Power BI Workshop
-        caption: United Latino Students Association
+        caption: 2025
         description: |
-          LinkedIn
+          United Latino Students Association
       - layout: left
         title: Back-End Web Development with .NET
         caption: 2025
