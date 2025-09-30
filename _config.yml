@@ -133,14 +133,14 @@ content:
     layout: list
     content:
       - layout: right
-       title:  Rebbitweb Technologies
-       sub_title: Senior Software Developer
-       caption: 04/2025 - Present
-       link: 
-       quote: >
-        Short description of the company (optional)
-      description: | # this will include new lines to allow paragraphs
-         A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands across global markets.
+        title:  Rebbitweb Technologies
+        sub_title: Senior Software Developer
+        caption: 04/2025 - Present
+        link: 
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands across global markets.
   - title: Education
     layout: list
     content:
