@@ -63,38 +63,38 @@ content:
       - layout: left
         title: Programming Languages
         description: |
-          - C#
-          - JavaScript / TypeScript
-          - Python
-          - SQL
-          - HTML5, CSS3, SASS
+          • C#
+          • JavaScript / TypeScript
+          • Python
+          • SQL
+          • HTML5, CSS3
       - layout: left
         title: Frameworks & Libraries
         description: |
-          - ASP.NET MVC / Web API
-          - .NET Core
-          - Entity Framework
-          - React.js, Next.js
-          - jQuery
+          • ASP.NET MVC / Web API
+          • .NET Core
+          • Entity Framework
+          • React.js, Next.js
+          • jQuery
       - layout: left
         title: Tools & Platforms
         description: |
-          - Git & GitHub
-          - Visual Studio, VS Code
-          - Azure DevOps
-          - Docker, Postman
+          • Git & GitHub
+          • Visual Studio, VS Code
+          • Azure DevOps
+          • Docker, Postman
       - layout: left
         title: Databases
         description: |
-          - SQL Server
-          - MySQL
+          • SQL Server
+          • MySQL
       - layout: left
         title: Other Skills
         description: |
-          - REST API Design
-          - Agile & Scrum
-          - Team Leadership & Mentoring
-          - Code Review & Best Practices
+          • REST API Design
+          • Agile & Scrum
+          • Team Leadership & Mentoring
+          • Code Review & Best Practices
   - title: Projects
     layout: list
     content:
