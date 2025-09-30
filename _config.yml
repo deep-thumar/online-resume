@@ -50,7 +50,7 @@ linkedin_username: thumar-deep-818489341
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   As a results-driven Senior Software Developer with over 4 years of hands-on experience, I specialize in architecting and optimizing robust web applications that deliver measurable business value. My expertise spans modern frontend frameworks like ReactJS and AngularJS, and extends to backend technologies including .NET Core, .NET MVC, Web API, and Node.js. I thrive in dynamic, agile environments, consistently delivering scalable and maintainable solutions.
   
