@@ -55,11 +55,6 @@ about_content: | # this will include new lines to allow paragraphs
   At Rebbitweb, our team led the development of scalable web applications, leveraging my expertise in C# MVC and SQL Server to enhance system performance and security. With a focus on optimizing API performance, we implemented robust token management, ensuring secure and efficient communication. Our collaborative efforts resulted in streamlined database operations and the on-time delivery of high-quality features.
   
   As a mentor, I supported junior developers in honing their skills in best practices and coding standards, reflecting my commitment to knowledge sharing and team growth. My educational journey culminated with a Master of Science degree in Information Technology, solidifying a foundation that integrates advanced technical skills with a strategic understanding of software development and data management.
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -82,8 +77,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
