@@ -5,13 +5,14 @@
 @import "icons";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 
-.header .name {
+.header-left h1 {
   font-family: 'Poppins', Arial, sans-serif;
   font-weight: 700;
+  font-size: 2.5rem;           // Adjust for desired size
   letter-spacing: 2px;
-  font-size: 2.5rem;
-  color: #2D2D2D;
-  text-shadow: 1px 1px 2px #bbb;
+  color: #22223b;              // Modern deep shade
+  text-shadow: 1px 2px 8px #f2e9e4, 0 1px 0 #c9ada7; // Optional: subtle glow and shadow
+  margin-bottom: 0.25em;
 }
 
 .header-right p {
