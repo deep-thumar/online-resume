@@ -198,32 +198,26 @@ content:
     content:
       - layout: left
         title: Power BI Workshop
-        caption: United Latino Students Association
         description: |
           Hands-on training in business intelligence and data visualization using Power BI.
       - layout: left
         title: Back-End Web Development with .NET
-        caption: 2025
         description: |
           Practical skills in building scalable server-side applications with .NET technologies.
       - layout: left
         title: Building a Website with Node.js and Express.js
-        caption: 2025
         description: |
           Developed web applications using Node.js and Express.js frameworks.
       - layout: left
         title: Microsoft Azure - Identity and Access Management
-        caption: 2025
         description: |
           Gained expertise in secure identity and access management solutions on Azure.
       - layout: left
         title: Hands-On Introduction - JavaScript
-        caption: 2025
         description: |
           Built a strong foundation in modern JavaScript through practical, project-based learning.
       - layout: left
         title: SQL Practice - Intermediate Queries
-        caption: 2025
         description: |
           Strengthened SQL query skills for database management and data analysis.
               
