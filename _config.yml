@@ -52,9 +52,15 @@ linkedin_username: thumar-deep-818489341
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  At Rebbitweb, our team led the development of scalable web applications, leveraging my expertise in C# MVC and SQL Server to enhance system performance and security. With a focus on optimizing API performance, we implemented robust token management, ensuring secure and efficient communication. Our collaborative efforts resulted in streamlined database operations and the on-time delivery of high-quality features.
+  As a results-driven Senior Software Developer with over 4 years of hands-on experience, I specialize in architecting and optimizing robust web applications that deliver measurable business value. My expertise spans modern frontend frameworks like ReactJS and AngularJS, and extends to backend technologies including .NET Core, .NET MVC, Web API, and Node.js. I thrive in dynamic, agile environments, consistently delivering scalable and maintainable solutions.
   
-  As a mentor, I supported junior developers in honing their skills in best practices and coding standards, reflecting my commitment to knowledge sharing and team growth. My educational journey culminated with a Master of Science degree in Information Technology, solidifying a foundation that integrates advanced technical skills with a strategic understanding of software development and data management.
+  I am recognized for my ability to lead teams, mentor junior developers, and collaborate across functions to deliver complex projects ahead of deadlines. My technical prowess is complemented by a passion for clean code, best practices, and continuous learning. Key accomplishments include:
+
+    • Leading a team of 5 developers to deliver a major project two weeks ahead of schedule,
+    • Optimizing APIs to reduce response times by 25%,
+    • And earning multiple “Shining Star” and “Exceeding Expectations” awards for technical and team contributions. I believe in building not just software, but also a culture of excellence and innovation. Whether designing a user-centric front end or engineering high-performance backends, I bring a strategic, detail-oriented, and growth-focused mindset to every challenge.
+
+  Let’s connect if you’re looking for someone who combines deep technical skills with leadership, innovation, and a relentless drive for results
 
 content:
   - title: Skills
