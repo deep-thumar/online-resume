@@ -150,8 +150,6 @@ content:
         sub_title: Senior Software Developer
         caption: 09/2021 - 02/2025
         link: https://infinityinfoway.com/
-        quote: >
-          Short description of the company (optional)
         description: | 
          - Led the design and development of scalable web applications using C# MVC and SQL Server.
          - Optimized API performance and implemented token management for secure communication.
@@ -176,12 +174,10 @@ content:
         title: Shree Matrumandir Group of Colleges
         sub_title: Master of Science - MS, Information Technology
         caption: 05/2021 - 03/2023 
-      - layout: top-right
+      - layout: top-left
         title: Atmiya Institute of Technology & Science
         sub_title: Bachelor of Science - BS, Information Technology
         caption: 05/2018 - 03/2021 
-        quote: >
-          Short institution or course description (optional)
 
   - title: Awards
     layout: list
