@@ -56,119 +56,94 @@ about_content: | # this will include new lines to allow paragraphs
   
   As a mentor, I supported junior developers in honing their skills in best practices and coding standards, reflecting my commitment to knowledge sharing and team growth. My educational journey culminated with a Master of Science degree in Information Technology, solidifying a foundation that integrates advanced technical skills with a strategic understanding of software development and data management.
 
+# (unchanged content above...)
+
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: Bus Booking Engine
         link: https://www.nuego.in/
         link_text: Nuego Bus
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Description about the work on/with the project
-    content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: BT-SOFT
         link: https://academiaautozitania.pt/
         link_text: Autozitania Academy
         quote: >
           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Description about the work on/with the project
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: Petrol Pump Management System
         quote: >
           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Description about the work on/with the project
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: PlayAmigos API
         quote: >
           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Description about the work on/with the project
+
   - title: Experience
     layout: list
     content:
       - layout: right
-        title:  Infinity Group of Companies
+        title: Infinity Group of Companies
         sub_title: Senior Software Developer
         caption: 09/2021 - 02/2025
         link: https://infinityinfoway.com/
         quote: >
           Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-           A Rajkot-based IT services and consulting firm with 300+ employees, delivering ERP/CRM, university campus management systems, cloud infrastructure, travel booking engines, web/mobile development, payment gateway, and digital marketing solutions.
-  - title: Experience
-    layout: list
-    content:
+        description: | 
+          A Rajkot-based IT services and consulting firm with 300+ employees, delivering ERP/CRM, university campus management systems, cloud infrastructure, travel booking engines, web/mobile develo[...]
       - layout: right
-        title:  Rebbitweb Technologies
+        title: Rebbitweb Technologies
         sub_title: Senior Software Developer
         caption: 04/2025 - Present
         link: 
         quote: >
           Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands across global markets.
+        description: | 
+          A Rajkot-based digital solutions studio delivering high-impact web development, custom e-commerce platforms, and conversion-driven digital experiences tailored to elevate modern brands acros[...]
+
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Shree Matrumandir Group of Colleges
-        sub_title:  Master of Science - MS, Information Technology
+        sub_title: Master of Science - MS, Information Technology
         caption: 05/2021 - 03/2023 
         quote: >
           Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-  - title: Education
-    layout: list
-    content:
       - layout: top-right
-        title:  Atmiya Institute Of Technology & Science
+        title: Atmiya Institute Of Technology & Science
         sub_title: Bachelor of Science - BS, Information Technology
         caption: 05/2018 - 03/2021 
         quote: >
           Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Description of qualification
+
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-      
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
