@@ -238,9 +238,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | 
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Beyond my technical expertise, I am passionate about continuous learning and personal growth. I thrive in collaborative environments where innovation and teamwork drive success, and I enjoy mentoring others to help them reach their full potential. Outside of work, I am an avid learner who stays up-to-date with the latest industry trends, and I enjoy exploring new technologies and frameworks in my spare time. I also have a keen interest in productivity, leadership, and personal development, which inspires me to bring energy and positivity to every project I undertake.
 
 # Footer
 footer_show_references: false
