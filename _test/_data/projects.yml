@@ -1,6 +1,6 @@
 # Project template
 - layout: top-middle
-  name: Project 1
+  name: Bus Booking Engine
   link: https://sproogen.github.io/modern-resume-theme
   github: sproogen/modern-resume-theme
   quote: >
@@ -8,6 +8,6 @@
   description: >
     Description about the work on/with the project
 
-- name: Project 2
+- name: BT-SOFT
   description: >
     Description about the work on/with the project
